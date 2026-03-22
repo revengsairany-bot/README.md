@@ -25,7 +25,7 @@ I’m an aspiring data analyst skilled in Excel, SQL, and Tableau, focused on tu
 
 🔗 "View Dashboard" (https://public.tableau.com/app/profile/reveng.sairany/viz/SuperstoreSalesDashboard_17741221899430/Dashboard1)
 
-"Dashboard" (superstore-sales-dashboard.png)
+![Superstore Sales Dashboard](superstore-sales-dashboard.png)
 
 ---
 
